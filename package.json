@@ -1,0 +1,17 @@
+{
+  "name": "test_node",
+  "version": "1.0.0",
+  "description": "mon premier api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "abdoulniang",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
